@@ -1,7 +1,7 @@
 {
   "name": "bablotbot",
   "version": "1.0.0",
-  "description": "the messenger bot for bablot",
+  "description": "the facebook messenger bot for bablot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
